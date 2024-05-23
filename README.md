@@ -1,9 +1,8 @@
-# React + Vite
-
-# creed-atom
-React Portfolio
+# Clifton's React Portfolio
 
 ## Description
+
+React Portfolio
 
 ## Table of Contents (Optional)
 
@@ -28,6 +27,8 @@ npm install pg@8.11.5
 https://www.npmjs.com/package/pg/v/8.11.5
 
 ## Usage
+
+http://localhost:5173/
 
 ## Credits
 
