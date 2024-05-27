@@ -1,0 +1,33 @@
+.footer-style {
+    height: 50px;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+.span-style {
+    background-color: black;
+    font-size: 25px;
+    color: yellow;
+    padding-right: 25px;
+}
+
+.link-style {
+    background: black;
+    text-decoration: none;
+    color: yellow;
+    font-size: 25px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    padding-inline: 10px;
+
+
+}
+
+
+
+
