@@ -15,8 +15,8 @@ function Nav(props) {
     }, [currentPage]);
 
     return (
-        <nav>
-            <ul>
+        <nav >
+            <ul className="nav-container">
                 {pages.map((page) => (
                     <li 
                         className={currentPage.name === page.name ? "active" : ""} 

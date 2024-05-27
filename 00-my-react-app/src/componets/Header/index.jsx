@@ -9,9 +9,9 @@ import headerPic from "../../assets/header-container.jpg";
 function Header(props) {
     return (
      <header className="header-container">
-        <h1>Welcome to Clifton's Portfolio</h1><br/>
+        <h1>Welcome to Clifton's Portfolio</h1>
         <img className="img" src={headerPic} alt="react logo" />
-            {props.childern}
+        {props.children}
     </header>
     );
 }

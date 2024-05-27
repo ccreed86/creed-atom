@@ -24,8 +24,10 @@
     display: inline-flex;
     align-items: center;
     padding-inline: 10px;
+}
 
-
+a:hover {
+    color: blue;
 }
 
 
