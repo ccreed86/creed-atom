@@ -141,6 +141,7 @@ function ResumePage() {
           Member of emergency action team for earthquake, power outage, fire and flood.
         </p>
       </sectoin>
+      <div className="resumeDl" >Download a copy of my Resume <a href="https://docs.google.com/document/d/1bPPeOlcOuVBcOcZNzVLIYrUp75BE6hsdBnToIv_MKIo/edit?usp=sharing">here</a></div>
     </section>
   );
 }

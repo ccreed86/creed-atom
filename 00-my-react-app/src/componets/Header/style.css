@@ -21,5 +21,6 @@ img {
 h1 {
     display: flexbox;
     align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 

@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./contact.css"
 
 function ContactPage() {
   const [formState, setFormState] = useState({
@@ -57,10 +58,10 @@ function ContactPage() {
           <input type="email" name="email" defaultValue={email} onBlur={handleChange} />
         </div>
         <div>
-          <label htmlFor="message">Message: </label>
-          <textarea
+          <label  htmlFor="message">Message: </label>
+          <textarea className="message"
             name="message"
-            rows="5"
+            rows="3"
             defaultValue={message}
             onBlur={handleChange}
           />
@@ -70,7 +71,7 @@ function ContactPage() {
             <p>{errorMessage}</p>
           </div>
         )}
-        <button type="submit">Submit</button>
+        <button className="submitBtn" type="submit">Submit</button>
       </form>
     </div>
   );
