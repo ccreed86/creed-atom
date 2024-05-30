@@ -4,21 +4,27 @@ function PortfolioPage() {
     return <section>
         <h1>Portfolio</h1>
         
-        <div>Project 1</div>
+        <div>Suril Blog</div>
+        {/* https://github.com/ccreed86/suriel-blog    pic√ */}
 
-        <div>Project 2</div>
-
-
-        <div>Project 3</div>
-
-
-        <div>Project 4</div>
+        <div>Minion Manager</div>
+        {/* https://github.com/ccreed86/minion-manager   pic√ */}
 
 
-        <div>Project 5</div>
+        <div>Task Board</div>
+        {/* https://github.com/ccreed86/task-board    pic√ */}
 
 
-        <div>Project 6</div>
+        <div>Classy Logo</div>
+        {/* https://github.com/ccreed86/classy-logo    pic√  */}
+
+
+        <div>Note Taker</div>
+        {/* https://github.com/ccreed86/note-taker */}
+
+
+        <div>Snapi NoSQL</div> 
+        {/* https://github.com/ccreed86/snapi-nosql  pic√ */}
 
         </section>
 }
