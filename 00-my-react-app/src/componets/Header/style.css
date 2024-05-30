@@ -3,7 +3,10 @@
     color: yellowgreen;
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
     justify-content: center;
+    align-content: center;
+    
 
     padding-right: 1rem;
     padding-left: 1rem;
@@ -13,5 +16,10 @@
 img {
     max-width: 100%;
     max-height: 275px;;
+}
+
+h1 {
+    display: flexbox;
+    align-content: center;
 }
 
