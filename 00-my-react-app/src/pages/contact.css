@@ -1,0 +1,27 @@
+#contact-form {
+    margin: 10px;
+    background: black;
+    color: yellow;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.message {
+    margin-top: 30px;
+}
+
+.submitBtn {
+    background: yellow;
+    color: black;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+
+button:hover {
+    background: blue;
+    color: yellowgreen;
+
+
+}
